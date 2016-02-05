@@ -33,9 +33,14 @@
     "react-dom": "^0.14.3"
   },
   "dependencies": {
+    "bowser": "^1.0.0",
+    "budo": "^7.0.2",
     "example-cities": "0.0.0",
     "global": "^4.3.0",
-    "object-assign": "^4.0.1"
+    "object-assign": "^4.0.1",
+    "pixi.js": "^3.0.9",
+    "react-addons-pure-render-mixin": "^0.14.3",
+    "viewport-mercator-project": "^2.0.1"
   },
   "devDependencies": {
     "bistre": "^1.0.1",
