@@ -8,7 +8,7 @@ You can copy and paste this example overlay to get started.
 
 # When would I want to use a custom PIXI overlay?
 
-You need to be able to show and update thousands of interactive elements on a page at once.
+You need to show and update thousands of interactive elements on a page at once.
 
 ## Usage
 
